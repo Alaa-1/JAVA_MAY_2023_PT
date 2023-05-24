@@ -47,8 +47,10 @@ public class Intro {
 
 
         // ------- ARRAYSLIST ------- (Dynamic Array - variable-length data structure)
-        // Declare & instantiate an ArrayList
-        ArrayList<String> coolNames = new ArrayList<String>();
+        // This part was changed in the code but not in the video
+        //(Instead of ArrayList of Integer(s) we changed to ArrayList of String(s))
+
+        ArrayList<String> coolNames = new ArrayList<String>(); // Declare & instantiate an ArrayList
 
         // add elements to the ArrayList
         coolNames.add("Jammy"); 
