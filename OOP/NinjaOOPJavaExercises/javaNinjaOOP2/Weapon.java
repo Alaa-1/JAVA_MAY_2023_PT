@@ -1,0 +1,12 @@
+// NEW EXCITING CLASS!!!!!
+
+public class Weapon {
+// MEMBER VARIABLES
+
+
+// CONSTRUCTOR
+
+
+// GETTERS AND SETTERS
+   
+}
